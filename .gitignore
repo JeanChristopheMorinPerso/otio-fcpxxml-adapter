@@ -2,4 +2,7 @@
 .venv/
 venv/
 *.tar.gz
+*.whl
 dist/
+__pycache__
+build/
